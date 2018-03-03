@@ -78,14 +78,6 @@ public enum Planeta {
 }
 
 
-/*memoria, aplicad este sencilla fórmula:
-Peso_en_Superficie = tu_Masa * Gravedad_en_superficie
-donde
-Gravedad_en_superficie = G * Masa_del_planeta / Radio_del_planeta_al_cuadrado
-donde:
-G = 6.67300E-11
-y
-tu_masa = tu_peso_en_la_Tierra / gravedad_superficial_tierra;*/
 
 
 
