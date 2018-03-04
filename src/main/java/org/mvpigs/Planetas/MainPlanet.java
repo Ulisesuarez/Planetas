@@ -16,7 +16,7 @@ public class MainPlanet {
             System.out.println("Debes pasar tu peso como argumento (default=0)");
         }
 
-        DecimalFormat decimalFormat=new DecimalFormat("###.##");
+        DecimalFormat decimalFormat=new DecimalFormat(".##");
 
         for (Planeta planeta:Planeta.values()){
             BigDecimal pesoSuperficie=new BigDecimal(String.valueOf(planeta.pesoSuperficie(peso)));
